@@ -105,15 +105,15 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let ow = `@${'6285158866902'.split('@')[0]}`
+ let ow = `@${'62895366380771'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let nurt = `@${'6281334177340'.split('@')[0]}`
+ let nurt = `@${'62895366380771'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let mds = `@${'62895336282144'.split('@')[0]}`
+ let mds = `@${''62895366380771.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -137,15 +137,15 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let par4 = `@${'6289638074455'.split('@')[0]}`
+ let par4 = `@${'62895366380771'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let tq = `@${'62831433937633'.split('@')[0]}`
+ let tq = `@${'62895366380771'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
- let par6 = `@${'6281326412754'.split('@')[0]}`
+ let par6 = `@${'62895366380771'.split('@')[0]}`
 
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
 
@@ -741,7 +741,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 ┠═ ⳹°❀❬ *RAMADHAN* ❭❀° ═─ɞ´-
 │➺ ${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik
 │
-┠═ °❀❬ *ULTAH ZIVFURR* ❭❀° ═─ɞ´
+┠═ °❀❬ *ULTAH DIKY* ❭❀° ═─ɞ´
 │➺ ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
 ┴
 ✧
@@ -776,7 +776,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                          "title": "📊 › 𐐪- Status -𐑂",
 
-                                         "description": "Status Haoribotz",
+                                         "description": "Status DikyBotzbotz",
 
                                          "rowId": ".mystat"
 
@@ -824,7 +824,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                          "title": "💌 › 𐐪- Group Bot -𐑂",
 
-                                         "description": "Join Ke Grup Official Haoribotz",
+                                         "description": "Join Ke Grup Official DikyBotzbotz",
 
                                          "rowId": ".gcbot"
 
@@ -1086,7 +1086,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                   "title": "👩🏻‍💻 〉ɞ 『 Owner 』",
 
-                  "description": "Hanya Untuk Owner Haori",
+                  "description": "Hanya Untuk Owner DikyBotz",
 
                   "rowId": ".? owner"
 
@@ -1100,7 +1100,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                 "title": "📝 ∫ » Info Updated «",
 
-                                "description": "Tentang Update Terakhir Di Haoribotz",
+                                "description": "Tentang Update Terakhir Di DikyBotzbotz",
 
                                 "rowId": ".notes"
 
@@ -1140,7 +1140,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                 "title": "🔬  ∫ » Script «",
 
-                                "description": "Script Yang Di Pakai Haori",
+                                "description": "Script Yang Di Pakai DikyBotz",
 
                                 "rowId": ".sc"
 
@@ -1148,7 +1148,7 @@ const ultah = new Date('april 5, 2023 23:59:59')
 
                                 "title": "🎖️ ∫  » Thanks To «",
 
-                                "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam haoribotz",
+                                "description": "Terima kasih banyak untuk user yang telah berpartisipasi dalam DikyBotzbotz",
 
                                 "rowId": ".? thnks"
 
@@ -1578,9 +1578,9 @@ text,
 
             title: global.wm,
 
-            body: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama Haori Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
+            body: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama DikyBotz Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
 
-            description: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖'', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama Haori Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
+            description: `${pickRandom(['Tetap Semangat Puasa Nya ❤️', 'Udah Mandi Belum Kak? 😌', 'Semangat Ya Kak! 😆', 'Jangan Begadang Mulu Ya! 😅', 'Jangan Spam Ya Kak! 😉', 'Jangan Lupa Donasi Yak Kak! 😖'', 'Jaga Kesehatan Yaw Kak! 🥰', 'Kalo Bosan Sama DikyBotz Aja Kak 😘!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
 
             mediaType: 2,
 
